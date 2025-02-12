@@ -21,6 +21,7 @@ Lab 2/
 - Odometry tracking with midpoint integration
 - Corner speed adjustments and recovery behavior
 - Start/finish line detection for loop closure
+- Prints odometry information in console
 
 ### Analysis Tools
 Visualization tools for robot trajectory:
